@@ -35,7 +35,7 @@ A web application for managing rental properties using the AppFolio Reports API 
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/phuongndam/connect-appfolio.git
    cd connect-appfolio
    ```
 
